@@ -1,2 +1,2 @@
-# Practical_Class_Build
-This is for Multimedia Authoring 1 Class Midterm preperation. 
+# practical_class_build
+This is for Multimedia Authoring 1 class midterm preperation. 
